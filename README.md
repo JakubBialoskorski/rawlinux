@@ -1,4 +1,4 @@
-# rawlinux
+# RawLinux
 
 Barebones Linux custom image, based on 6.13.0 kernel - smallest possible "distribution". Uses official [torvalds/linux](https://github.com/torvalds/linux) and [Busybox](https://git.busybox.net/busybox).
 
