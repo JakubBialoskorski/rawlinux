@@ -10,8 +10,9 @@ Also, I want full control over which drivers are included - I don't need graphic
 
 ### How to run it
 
-Make sure you have `qemu` installed: `sudo apt install qemu-system-x86`,
-launch it with `qemu-system-x86_64 disk.img`
+Make sure you have `qemu` installed: `sudo apt install qemu-system-x86` .
+
+Launch it with `qemu-system-x86_64 disk.img` .
 
 ### Roadmap
 
