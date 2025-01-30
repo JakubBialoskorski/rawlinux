@@ -1,6 +1,6 @@
 # rawlinux
 
-Barebones Linux distribution based on 6.13.0 kernel.
+Barebones Linux distribution based on 6.13.0 kernel. Uses official [torvalds/linux](https://github.com/torvalds/linux) and [Busybox](https://git.busybox.net/busybox).
 
 ### Why?
 
